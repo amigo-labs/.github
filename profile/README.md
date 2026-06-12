@@ -13,12 +13,6 @@ Personal organization for projects around **Rust, TypeScript, and performance**.
 | **[amigo-trommel](https://github.com/amigo-labs/amigo-trommel)** | TypeScript-native game-audio authoring tool. Sample-based voices, a Strudel pattern system. DSP runs in Rust; JS only triggers voices. | Svelte 5 · Rust/WASM · QuickJS-NG · Tauri v2 |
 | **[amigo-engine](https://github.com/amigo-labs/amigo-engine)** | Pixel-art game engine with a built-in editor, AI asset generation, and algorithmic chiptune music. | Rust · ECS · wgpu · TidalCycles |
 
-## Everyday apps
-
-| App | Description | Stack |
-|---|---|---|
-| **[Tankzettel](https://github.com/daniel-rck/Tankzettel)** | Local-first PWA for logging fuel receipts — snap a photo and Google Gemini extracts the data, stored offline in IndexedDB. CSV/JSON export, analytics, no backend. | TypeScript · Vite · Bun · Cloudflare Workers |
-
 ## Common stack
 
 - **Core / performance** — Rust, compiled to WASM for the web and natively for desktop
@@ -29,4 +23,4 @@ Personal organization for projects around **Rust, TypeScript, and performance**.
 
 ---
 
-*6 public repositories · Last updated June 2026*
+*6 public repositories · Last updated May 2026*
