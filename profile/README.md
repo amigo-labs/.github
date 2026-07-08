@@ -12,6 +12,7 @@ Personal organization for projects around **Rust, TypeScript, and performance**.
 | **[amigo-pincel](https://github.com/amigo-labs/amigo-pincel)** | A pixel-art editor for the web. | Rust · WASM |
 | **[amigo-trommel](https://github.com/amigo-labs/amigo-trommel)** | TypeScript-native game-audio authoring tool. Sample-based voices, a Strudel pattern system. DSP runs in Rust; JS only triggers voices. | Svelte 5 · Rust/WASM · QuickJS-NG · Tauri v2 |
 | **[amigo-engine](https://github.com/amigo-labs/amigo-engine)** | Pixel-art game engine with a built-in editor, AI asset generation, and algorithmic chiptune music. | Rust · ECS · wgpu · TidalCycles |
+| **[amigo-metropolis](https://github.com/amigo-labs/amigo-metropolis)** | Browser-based arena strategy-action game — a mechanics homage to the *Precinct Assault* mode of *Future Cop: L.A.P.D.* (1998), reusing none of the original's IP. One deterministic lockstep simulation drives solo, couch-splitscreen, and online 1v1 play. | TypeScript |
 
 ## Common stack
 
@@ -23,4 +24,4 @@ Personal organization for projects around **Rust, TypeScript, and performance**.
 
 ---
 
-*6 public repositories · Last updated May 2026*
+*7 public repositories · Last updated July 2026*
